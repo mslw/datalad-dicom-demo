@@ -5,3 +5,4 @@
 [submodule "dcm_qa_nih"]
 	path = dcm_qa_nih
 	url = https://github.com/neurolabusc/dcm_qa_nih
+	datalad-url = https://github.com/neurolabusc/dcm_qa_nih
