@@ -1,3 +1,4 @@
 [submodule "dcm_qa"]
 	path = dcm_qa
 	url = https://github.com/neurolabusc/dcm_qa
+	datalad-url = https://github.com/neurolabusc/dcm_qa
